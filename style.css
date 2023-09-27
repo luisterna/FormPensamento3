@@ -3,6 +3,10 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
 }
+
+topo {
+    position: center;
+}
 img {
     width: 300px;
     height: auto; /* Mantém a proporção da imagem */
