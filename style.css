@@ -5,7 +5,7 @@ body {
 }
 
 topo {
-    position: center;
+    position: relative;
 }
 img {
     width: 300px;
