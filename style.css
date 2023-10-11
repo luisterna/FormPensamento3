@@ -7,7 +7,7 @@
 .topo {
     position: relative;
 }
-img {
+.img {
     width: 300px;
     height: auto; /* Mantém a proporção da imagem */
     border: 5px solid #333;
