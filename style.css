@@ -7,8 +7,13 @@
 .topo {
     position: relative;
 }
+
+.container {
+    display: flex; 
+}
+
 .img, .text {
-    width: 50%; /* Cada div ocupará metade da largura do container */
+    width: 50%;
     padding: 20px;
     box-sizing: border-box;
 }
