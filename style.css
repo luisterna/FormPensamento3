@@ -2,12 +2,13 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: rgb(29, 188, 188);
+   
 }
 
 
 .texto{
     color: red;
+    background-color: rgb(29, 188, 188);
 }
 
 #titulo{
