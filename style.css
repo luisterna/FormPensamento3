@@ -12,6 +12,7 @@ body {
 }
 
 .text{
+    border-radius: 10%;
     background-color: rgb(29, 188, 188);
 }
 
