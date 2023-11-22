@@ -30,13 +30,13 @@ body {
     display: flex; 
 }
 
-.Cont {
+.img, .text {
     width: 49%;
     padding: 20px;
     box-sizing: border-box;
 }
 
-.img{
+.img1{
     width: 400px;
     height: 500px;
     border-radius: 10%;
