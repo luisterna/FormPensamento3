@@ -5,12 +5,12 @@ body {
    
 }
 
-.Cabe {
+ul {
     padding: 0;
     list-style: none;
 }
   
-.CabeLi {
+ul li {
     display: inline-block;
     margin-right: 10px;
 }
