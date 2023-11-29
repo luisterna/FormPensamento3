@@ -5,10 +5,15 @@ body {
    
 }
 
-.cabe{
+ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  ul li {
     display: inline-block;
-    margin-right: 10px;
-}
+    margin-right: 10px; /* Adicione margem direita se desejar espaçamento entre os itens */
+  }
 
 .texto{
    color: red;
