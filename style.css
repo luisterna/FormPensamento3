@@ -5,6 +5,9 @@ body {
    
 }
 
+.cabe{
+    display: inline;
+}
 
 .texto{
     color: red;
