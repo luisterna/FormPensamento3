@@ -6,11 +6,11 @@ body {
 }
 
 .cabe{
-    display: inline;
+    display: inline-block;
 }
 
 .texto{
-    color: red;
+   color: red;
    
 }
 
