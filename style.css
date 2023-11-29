@@ -10,7 +10,7 @@ body {
     list-style: none;
 }
   
-ul li {
+.Cabe {
     display: inline-block;
     margin-right: 10px;
 }
